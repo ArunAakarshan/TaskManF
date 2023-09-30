@@ -1,0 +1,16 @@
+.cov{
+  background-image: url(C:\Users\Aakarshan\Desktop\html\js\Final\important\src\assets\Background.jpg);
+  height: 100vh;
+  background-size: cover;
+  color: white;
+}
+
+.new-task-form{
+  display: flex;
+  flex-direction: column;
+  width: 19rem;
+  text-align: center;
+  justify-content: center;
+  height: 40vh;
+  padding-left: 100px;
+}
